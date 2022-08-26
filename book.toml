@@ -1,0 +1,6 @@
+[book]
+authors = ["Leon Hernandez"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Github Pages"
